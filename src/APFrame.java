@@ -1,7 +1,7 @@
 import javax.swing.JFrame;
 import java.awt.Color;
 import javax.swing.ImageIcon;
-
+//for the frame.
 public class APFrame extends JFrame {
     APLable APlable = new APLable(); 
     APFrame(){
